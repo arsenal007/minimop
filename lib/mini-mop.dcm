@@ -1,0 +1,54 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8129
+D Differential Receiver Amplifiers
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ad8129_8130.pdf
+$ENDCMP
+#
+$CMP CP_Small
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP C_Small
+D Unpolarized capacitor
+K capacitor cap
+$ENDCMP
+#
+$CMP Conn_Coaxial
+D coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, ...)
+K BNC SMA SMB SMC coaxial connector CINCH RCA
+$ENDCMP
+#
+$CMP D_Small
+D Diode, small symbol
+K diode
+$ENDCMP
+#
+$CMP D_TVS
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+F https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode
+$ENDCMP
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP GND
+D GROUND power-flag symbol
+K Power Flag Symbol
+$ENDCMP
+#
+$CMP Q_NJFET_SDG
+D Transistor N-JFET (general)
+K njfet n-jfet transistor
+$ENDCMP
+#
+$CMP R_Small
+D Resistor, small symbol
+K r resistor
+$ENDCMP
+#
+#End Doc Library

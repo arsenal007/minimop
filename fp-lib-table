@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name mini-mop)(type KiCad)(uri ${KIPRJMOD}/lib)(options "")(descr ""))
+  (lib (name mini_mop)(type KiCad)(uri "$(KIPRJMOD)/lib/mini_mop.pretty")(options "")(descr ""))
+)
