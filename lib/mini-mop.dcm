@@ -5,6 +5,11 @@ D Differential Receiver Amplifiers
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ad8129_8130.pdf
 $ENDCMP
 #
+$CMP Antenna
+D Antenna symbol
+K antenna
+$ENDCMP
+#
 $CMP CP_Small
 D Polarised capacitor
 K cap capacitor
@@ -49,6 +54,11 @@ $ENDCMP
 $CMP R_Small
 D Resistor, small symbol
 K r resistor
+$ENDCMP
+#
+$CMP SPARK_GAP
+D Spark Gap
+K spark gap esd electrostatic suppression
 $ENDCMP
 #
 #End Doc Library
